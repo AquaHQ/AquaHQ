@@ -1,2 +1,2 @@
-<h1 align="center">AquaHQ Images>/h1>
+<h1 align="center">AquaHQ Images</h1>
 
